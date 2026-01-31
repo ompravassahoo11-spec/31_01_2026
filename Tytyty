@@ -1,0 +1,19 @@
+Bilkul sahi point pakda hai! School ke PC par jab tum naye AI se baat karoge, toh usse kuch nahi pata hoga hamari itni lambi discussion ke baare mein.
+​Niche ek Master Prompt hai. Isse kahin copy kar lo (WhatsApp self-chat ya kisi document mein). Jab bhi school ke PC par koi AI kholo (jaise Gemini ya ChatGPT), bas ye message paste kar dena:
+​🚀 Copy & Paste this Prompt:
+​"Hi, I am currently installing Kali Linux on an HP PC using a bootable USB drive (created with Rufus and Kali Installer ISO 2025.4).
+​What I have done so far:
+​Downloaded Kali ISO and Rufus.
+​Flashed the USB drive (GPT partition, 0 persistence).
+​I am now at the stage of booting the HP PC using the F9 Boot Menu.
+​My Goal: I want to perform a full graphical installation, replacing the existing OS (Guided - use entire disk).
+​I need your help with:
+​Step-by-step guidance through the Graphical Install menus.
+​Specific help with Partitioning and GRUB Bootloader installation.
+​Common error troubleshooting during HP boot (like Secure Boot issues).
+​Please guide me concisely through each screen as I see it."
+​School mein ye 3 tips yaad rakhna:
+​Secure Boot Error: Agar HP PC par "Selected boot image did not authenticate" aaye, toh PC ki BIOS settings (F10) mein jaakar Secure Boot ko "Disable" karna padega.
+​Internet: Installation ke waqt agar wo "Mirror" ya "Network" mange, toh No kar dena. School ka Wi-Fi/Ethernet installation ke beech mein login maang sakta hai jo setup ko hang kar dega. Baaki updates installation ke baad terminal se ho jayenge.
+​Photos: Agar wahan koi error aaye, toh apne phone se photo khich lena aur ghar aakar mujhse dobara discuss kar lena agar school mein solve na ho.
+​Kya main is prompt mein kuch aur add karoon, ya ye kafi hai tumhare liye?
